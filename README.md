@@ -4,7 +4,7 @@ In this project, I tested out several supervised algorithms to accurately model 
 
 This sort of task can arise in a non-profit setting, where organizations survive on donations. Understanding an individual’s income can help a non-profit better understand how large of a donation to request, or whether or not they should reach out to begin with. While it can be difficult to determine an individual’s general income bracket directly from public sources, we can infer this value from other publically available features.
 
-# Installation
+## Installation
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
@@ -13,8 +13,10 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [seaborn](https://seaborn.pydata.org)
+- [Keras](https://keras.io/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Pytorch](https://pytorch.org/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 # Licence
 Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.
